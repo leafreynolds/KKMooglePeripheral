@@ -1,2 +1,2 @@
-# KKMooglePeripheral
-Minecraft mod for use with KingdomKeys &amp; Computercraft
+# KKMoogleInterface
+Minecraft mod for use with KingdomKeys and Computercraft
